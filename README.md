@@ -61,4 +61,4 @@ GitHub projelerinde CSRF korumasını entegre etmek, kullanıcı verilerini ve i
 - [OWASP CSRF Koruması](https://owasp.org/www-community/attacks/csrf)
 - [GitHub Güvenlik Kılavuzu](https://docs.github.com/en/github/authenticating-to-github)
 - [Görsel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphppot.com%2Fphp%2Fcross-site-request-forgery-anti-csrf-protection-in-php%2F&psig=AOvVaw2F2h0orIwEQAZIt5nXSCI0&ust=1731488281402000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPjgkdW21okDFQAAAAAdAAAAABAc)
-```
+
